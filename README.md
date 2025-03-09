@@ -3,11 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strange8969&label=Profile%20views&color=0e75b6&style=flat" alt="strange8969" /> </p>
 
+- 🔭 I’m currently working on **DevOps**
+- 🌱 I’m currently learning **AWS, DevOps and Spring**
+- 👯 I’m looking to collaborate on **Full Stack and DevOps Project**
+- 👨‍💻 All of my projects are available at [Github Link](https://github.com/strange8969)
+- 💬 Ask me about **DevOps and JAVA.**
+- 📫 How to reach me [adityaraj896919@gmail.com](mailto:adityaraj896919@gmail.com)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gsP0IJlP47LB6nH_H4o3Bxn6UXbdmhFo/view?usp=sharing)
+- ⚡ Fun fact **I Enjoy being Myself**
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strange8969" alt="strange8969" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **adityaraj896919@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
