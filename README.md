@@ -32,7 +32,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <a href="[https://skillicons.dev](https://skillicons.dev/)">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,expressjs,nextjs,tailwindcss,php,mysql,mongodb,aws,gcp,azure,kubernetes,docker,firebase,git,postman,linux,matlab,figma,vscode,laravel&perline=7" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,c,spring,html,css,js,mysql,mongodb,terraform,aws,azure,kubernetes,docker,notion,wordpress,maven,github,git,linux,matlab,figma,cloudflare,heroku,idea,dynamodb,eclipse,vscode,bash,&perline=6" />
 </a>
 </p>
 
