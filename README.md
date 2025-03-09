@@ -36,10 +36,18 @@
 </a>
 </p>
 
+## Stats Overview
+
+<div >
+<!--     <p align="center"> -->
+<img src="https://leetcard.jacoblin.cool/_aaditya_raj?theme=light,unicorn" alt="LeetCode Light & Unicorn Theme" />
+&nbsp
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strange8969&" alt="strange8969" /></p>
+</div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=strange8969&show_icons=true&locale=en&layout=compact" alt="strange8969" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strange8969&show_icons=true&locale=en" alt="strange8969" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strange8969&" alt="strange8969" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strange8969" alt="strange8969" /></a> </p>
 
