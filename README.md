@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [Github Link](https://github.com/strange8969)
 - 💬 Ask me about **DevOps and JAVA.**
 - 📫 How to reach me [adityaraj896919@gmail.com](mailto:adityaraj896919@gmail.com)
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1gsP0IJlP47LB6nH_H4o3Bxn6UXbdmhFo/view?usp=sharing](https://my-resume-aaditya.s3.ap-south-1.amazonaws.com/Resume_Aaditya_Raj.pdf)
+- 📄 Know about my experiences [Resume]([https://my-resume-aaditya.s3.ap-south-1.amazonaws.com/Resume_Aaditya_Raj.pdf])
 - ⚡ Fun fact **I Enjoy being Myself**
 
 
